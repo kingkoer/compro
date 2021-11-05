@@ -1,0 +1,19 @@
+{
+    "name": "kingkoer/mytest",
+    "description": "this is a second package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kingkoer\\Mytest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "King Koer",
+            "email": "2015933188@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
